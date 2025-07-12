@@ -88,6 +88,7 @@ ITEM_QUALITIES = {
     "Ember Lily": "Prismatic",
     "Sugar Apple": "Prismatic",
     "Burning Bud": "Prismatic",
+    "Giant Pinecone": "Prismatic",
     # Transcendant
     "Bone Blossom": "Transcendant"
 }
