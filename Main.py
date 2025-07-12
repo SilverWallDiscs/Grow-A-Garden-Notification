@@ -255,7 +255,7 @@ class StoreApp(QWidget):
 
     def tray_icon_clicked(self, reason):
         """Maneja los clics en el icono del system tray"""
-        if reason == QSystemTrayIcon.ActivationReason.DoubleClick:
+        if reason == QSystemTrayIcon.ActivationReason.Trigger:
             self.show_normal()
 
     def close_app(self):
